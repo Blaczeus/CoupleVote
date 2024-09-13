@@ -2,6 +2,10 @@
 
 Welcome to **CoupleVote**, a voting platform designed for couples to register and receive votes from their friends, family, and supporters. This web application provides an easy-to-use interface for couples to compete in various categories and allows visitors to vote for their favorite couples.
 
+## Live Preview
+
+https://blaczeus.github.io/CoupleVote/
+
 ## Features
 
 - **User-Friendly Interface**: Easy navigation for users to vote for couples.
@@ -21,7 +25,3 @@ Welcome to **CoupleVote**, a voting platform designed for couples to register an
 - **Font Awesome** for icons
 - **Ionicons** for additional icon styling
 - **Canva and Figma** (for logo design)
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
